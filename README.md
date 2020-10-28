@@ -13,4 +13,4 @@ UI Clone #17 - Vercel (Homepage)
 
 <hr>
 
-<img src="./github/clone.png">
+<img src="./.github/clone.png">
